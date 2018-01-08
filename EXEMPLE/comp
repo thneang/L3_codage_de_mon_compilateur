@@ -1,0 +1,22 @@
+const c = 3;
+entier a,b;
+main(){
+	caractere d;
+	entier k;
+	k = 8;
+	a= 2;
+	b= 5 + 2;
+	a = b+5;
+	d = 'g';
+	print(a);
+	print(b);
+	print(c);
+	print(d);
+	print(k);
+	print(a==b);
+	print(a!=b);
+	print(a<b);
+	print(a>b);
+	print(a<=b);
+	print(a>=b);
+}
